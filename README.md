@@ -1,0 +1,1 @@
+This repo contains the simple project on front end development technologies from beginner level to intermediate level. Currently I have learnt HTML, CSS, JavaScript hence trying to get some hands-on experience by making some projects. Once I get confident in these skills then i will go for React.js 
